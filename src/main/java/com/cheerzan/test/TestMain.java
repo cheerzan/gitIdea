@@ -9,9 +9,10 @@ public class TestMain {
         System.out.println("ccccc");
         System.out.println("ddddddddddd");
         System.out.println("EEEEEEEEEEEEEEE-hot-FIX");
-        System.out.println("FFFFFFFFFFFFFFF-MATER");
+        System.out.println("GGGGGGGGGGGGGGGGGGGGG-hot-FIX");
 
-        System.out.println("MAAAAAAAAAAAAAAAAA");
+        System.out.println("FFFFFFFFFFFFFFFFZHI");
+
     }
 
 }
