@@ -12,6 +12,8 @@ public class TestMain {
         System.out.println("GGGGGGGGGGGGGGGGGGGGG-hot-FIX");
 
         System.out.println("FFFFFFFFFFFFFFFFZHI");
+        System.out.println("PUSHNE NEW ");
+
 
     }
 
